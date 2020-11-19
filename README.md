@@ -1,2 +1,2 @@
-# CCT423 Unity Game Development Final Assignment
+# CCT423 Unity Game Development "Zombie Rain"
  
